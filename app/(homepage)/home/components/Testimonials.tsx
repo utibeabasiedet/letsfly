@@ -4,7 +4,7 @@ import React from "react";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import Image from "next/image";
-import testi from '../../../../public/assets/images/home/picture.png'
+import testi from '../../../../public/assets/images/home/add-user-account.png'
 
 // Import Swiper styles
 import "swiper/css";
